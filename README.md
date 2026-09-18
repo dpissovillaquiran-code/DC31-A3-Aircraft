@@ -27,3 +27,9 @@ Ref: AOXM / DCPV / B.EQT.V.C.P | 12 SEP 2026
 - Construcción por componentes 120 canales, no fundido único
 - Función: Condensador de flujo para manufactura de plasma por ventilación HF-SK50
 - Diferencia vs RIGID_COPPER_CIRCLE chino Cu 99.9% circular verificado
+
+---
+## MODELO VIABLE REGISTRADO - REV C-03 - 17/09/2026
+![Viabilidad 94%](docs/VIABILIDAD_REV_C03/CERTIFICADO_REGISTRO_VIABILIDAD_REV_C03_17_09_2026.png)
+**VIABILIDAD 94% CONFIRMADA - 6-9 HORAS - 850kW TRI-HYBRID**
+Dossier original verificado: VTOL Hovercraft 6-Rotor + HF-SK50 + CHC-HEART 120 canales
