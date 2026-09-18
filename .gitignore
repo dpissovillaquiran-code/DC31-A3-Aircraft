@@ -1,4 +1,4 @@
-*.xlsx
+# temporales
+*.blend1
+*.bak
 __pycache__/
-*.log
-**Solo
