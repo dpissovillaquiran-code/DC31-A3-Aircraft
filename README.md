@@ -1,35 +1,20 @@
-# DC31-A3-Aircraft - 850kW TRI-HYBRID PLASMA HEART MOTOR
+# DC31-A3 AIRCRAFT - TRABAJO FINAL LIMPIO
+## PRODUCTO vs INVESTIGACION
 
-## CERTIFICADO DE REGISTRO - MODELO 3D
-![Certificado](docs/Certificado_DC31_A3_Registro.png)
+![Portada](assets/images/PORTADA_TRABAJO_FINAL_LIMPIO.png)
 
-**Titular:** Didier Cenen Pisso Villaquiran | **Patente:** DC31-A3-2026-001 | **Fecha:** 16/09/2026 Cali
-**Modelo:** DC31A3.obj - 2376 vertices
+### 01 PRODUCTO VIABLE REV C-03 - 94% VIABLE - 6-9 HORAS
+- VTOL Hovercraft 6-Rotor Quadcopter-Hex
+- 850kW Tri-Hybrid: Diesel 400kW + Turbine 300kW + Plasma Boost 150kW pico / 15kW continuo RF 2.4GHz
+- CHC-HEART 120 canales Cu-OFHC 12L/min 2.5bar ZrO2 - Por componentes no fundido
+- HF-SK50 5000 CFM - 4.5kN Vector 3-Axis ±30°
+- MANTENIMIENTO DE POR VIDA - 94% Viabilidad Comercial
+- Patente: DC31-A3-2026-001 - Registro: 17/09/2026 Cali
 
-### Especificaciones: 850kW = Diesel 400kW + Turbina 300kW + Plasma 150kW
-- Estructura FR-331A Fibra Carbono / Al-7075
-- 4x Rotores RT-QC-15 15kW
-- Nucleo TH-PH-03 Camara Plasma H2
-- Corazon Cobre CHC-HEART 120 canales
+### 02 INVESTIGACION FUTURA QUARTZ HEART REV F
+- Interior Libre SiO2 180mm Vacuum Sealed
+- Dual V12 Parallel 2400kW - Blue Plasma Rays Internal
+- Free Interior - No comercial - Solo I+D futuro
+- Estado: Investigación - No viable actualmente por térmica
 
-### LICENSE RESERVE - AOXM ECOSYSTEM
-![Licencia](docs/LICENSE_RESERVE_AOXM_ECOSYSTEM.png)
-
-Original Author: DIDIER CENEN PISSO VILLAQUIRAN AS ABSOLUTE OWNER ABOVE ALL
-Ref: AOXM / DCPV / B.EQT.V.C.P | 12 SEP 2026
-
----
-## VERIFICACION DE ORIGINALIDAD - 16/09/2026
-![Certificado Originalidad](docs/VERIFICACION/CERTIFICADO_ORIGINALIDAD_NO_PLAGIO_CHC_HEART_16_09_2026.png)
-
-**RESULTADO FORENSE: ORIGINALIDAD 100% CONFIRMADA - NO PLAGIO**
-- Componente unificado por aleaciones Cu-OFHC + Pt 5% / Cu-Ag 3% / Al-7075 + Cu 10%
-- Construcción por componentes 120 canales, no fundido único
-- Función: Condensador de flujo para manufactura de plasma por ventilación HF-SK50
-- Diferencia vs RIGID_COPPER_CIRCLE chino Cu 99.9% circular verificado
-
----
-## MODELO VIABLE REGISTRADO - REV C-03 - 17/09/2026
-![Viabilidad 94%](docs/VIABILIDAD_REV_C03/CERTIFICADO_REGISTRO_VIABILIDAD_REV_C03_17_09_2026.png)
-**VIABILIDAD 94% CONFIRMADA - 6-9 HORAS - 850kW TRI-HYBRID**
-Dossier original verificado: VTOL Hovercraft 6-Rotor + HF-SK50 + CHC-HEART 120 canales
+**Titular:** Didier Cenen Pisso Villaquiran - AOXM Ecosystem 2026
