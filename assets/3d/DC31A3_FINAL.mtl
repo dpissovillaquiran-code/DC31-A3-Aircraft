@@ -1,0 +1,4 @@
+newmtl HULL_GREEN_METAL
+Kd 0.25 0.68 0.15
+newmtl CHC_HEART_Cu_Pt_5
+Kd 0.85 0.45 0.25
